@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/find-the-duplicate-number/
 
-// 287. Find the Duplicate Number   -------> Asked in "Amazon"
+// 287. Find the Duplicate Number   -------> Asked in "Amazon & Microsoft"
 
 class Solution {
     public int findDuplicate(int[] nums) {
